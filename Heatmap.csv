@@ -1,101 +1,101 @@
-group,variable,value
-A,v1,30
-A,v2,95
-A,v3,22
-A,v4,14
-A,v5,59
-A,v6,52
-A,v7,88
-A,v8,20
-A,v9,99
-A,v10,66
-B,v1,37
-B,v2,50
-B,v3,81
-B,v4,79
-B,v5,84
-B,v6,91
-B,v7,82
-B,v8,89
-B,v9,6
-B,v10,67
-C,v1,96
-C,v2,13
-C,v3,98
-C,v4,10
-C,v5,86
-C,v6,23
-C,v7,74
-C,v8,47
-C,v9,73
-C,v10,40
-D,v1,75
-D,v2,18
-D,v3,92
-D,v4,43
-D,v5,16
-D,v6,27
-D,v7,76
-D,v8,24
-D,v9,1
-D,v10,87
-E,v1,44
-E,v2,29
-E,v3,58
-E,v4,55
-E,v5,65
-E,v6,56
-E,v7,9
-E,v8,78
-E,v9,49
-E,v10,36
-F,v1,35
-F,v2,80
-F,v3,8
-F,v4,46
-F,v5,48
-F,v6,100
-F,v7,17
-F,v8,41
-F,v9,33
-F,v10,11
-G,v1,77
-G,v2,62
-G,v3,94
-G,v4,15
-G,v5,69
-G,v6,63
-G,v7,61
-G,v8,54
-G,v9,38
-G,v10,93
-H,v1,39
-H,v2,26
-H,v3,90
-H,v4,83
-H,v5,31
-H,v6,2
-H,v7,51
-H,v8,28
-H,v9,42
-H,v10,7
-I,v1,5
-I,v2,60
-I,v3,21
-I,v4,25
-I,v5,3
-I,v6,70
-I,v7,34
-I,v8,68
-I,v9,57
-I,v10,32
-J,v1,19
-J,v2,85
-J,v3,53
-J,v4,45
-J,v5,71
-J,v6,64
-J,v7,4
-J,v8,12
-J,v9,97
-J,v10,72
+group,variable,value,sentiment
+Jan,Prod1,30,"good"
+Jan,Prod2,95,"very good product"
+Jan,Prod3,22,"bad condition"
+Jan,Prod4,14,"great service"
+Jan,Prod5,59,"bad condition"
+Jan,Prod6,52,"very good product"
+Jan,Prod7,88,"bad condition"
+Jan,Prod8,20,"great service"
+Jan,Prod9,99,"great service"
+Jan,Prod10,66,"very good product"
+Feb,Prod1,37,"great service"
+Feb,Prod2,50,"bad condition"
+Feb,v3,81,"great service"
+Feb,Prod4,79,"bad condition"
+Feb,Prod5,84,"great service"
+Feb,Prod6,91,"very good product"
+Feb,Prod7,82,"great service"
+Feb,Prod8,89,"bad condition"
+Feb,Prod9,6,"great service"
+Feb,Prod10,67,"very good product"
+Mar,Prod1,96,"great service"
+Mar,Prod2,13,"bad condition"
+Mar,Prod3,98,"great service"
+Mar,Prod4,10,"bad condition"
+Mar,Prod5,86,"very good product"
+Mar,Prod6,23,"great service"
+Mar,Prod7,74,"very good product"
+Mar,Prod8,47,"great service"
+Mar,Prod9,73,"bad condition"
+Mar,Prod10,40,"great service"
+Apr,Prod1,75,"great service"
+Apr,Prod2,18,"bad condition"
+Apr,Prod3,92,"great service"
+Apr,Prod4,43,"very good product"
+Apr,Prod5,16,"great service"
+Apr,Prod6,27,"great service"
+Apr,Prod7,76,"bad condition"
+Apr,Prod8,24,"very good product"
+Apr,Prod9,1,"great service"
+Apr,Prod10,87,"great service"
+May,Prod1,44,"bad condition"
+May,Prod2,29,"very good product"
+May,Prod3,58,"great service"
+May,Prod4,55,"bad condition"
+May,Prod5,65,"bad condition"
+May,Prod6,56,"very good product"
+May,Prod7,9,"bad condition"
+May,Prod8,78,"bad condition"
+May,Prod9,49,"very good product"
+May,Prod10,36,"bad condition"
+Jun,Prod1,35,"bad condition"
+Jun,Prod2,80,"bad condition"
+Jun,Prod3,8,"bad condition"
+Jun,Prod4,46,"bad condition"
+Jun,Prod5,48,"bad condition"
+Jun,Prod6,100,"very good product"
+Jun,Prod7,17,"very good product"
+Jun,Prod8,41,"bad condition"
+Jun,Prod9,33,"very good product"
+Jun,Prod10,11,"bad condition"
+Jul,Prod1,77,"bad condition"
+Jul,Prod2,62,"very good product"
+Jul,Prod3,94,"great service"
+Jul,Prod4,15,"bad condition"
+Jul,Prod5,69,"bad condition"
+Jul,Prod6,63,"great service"
+Jul,Prod7,61,"very good product"
+Jul,Prod8,54,"bad condition"
+Jul,Prod9,38,"bad condition"
+Jul,Prod10,93,"bad condition"
+Aug,Prod1,39,"bad condition"
+Aug,Prod2,26,"very good product"
+Aug,Prod3,90,"great service"
+Aug,Prod4,83,"very good product"
+Aug,Prod5,31,"great service"
+Aug,Prod6,2,"great service"
+Aug,Prod7,51,"very good product"
+Aug,Prod8,28,"great service"
+Aug,Prod9,42,"very good product"
+Aug,Prod10,7,"great service"
+Sept,Prod1,5,"great service"
+Sept,Prod2,60,"bad condition"
+Sept,Prod3,21,"very good product"
+Sept,Prod4,25,"great service"
+Sept,Prod5,3,"bad condition"
+Sept,Prod6,70,"very good product"
+Sept,Prod7,34,"great service"
+Sept,Prod8,68,"bad condition"
+Sept,Prod9,57,"very good product"
+Sept,Prod10,32,"bad condition"
+Oct,Prod1,19,"bad condition"
+Oct,Prod2,85,"bad condition"
+Oct,Prod3,53,"bad condition"
+Oct,Prod4,45,"bad condition"
+Oct,Prod5,71,"great service"
+Oct,Prod6,64,"bad condition"
+Oct,Prod7,4,"very good product"
+Oct,Prod8,12,"very good product"
+Oct,Prod9,97,"great service"
+Oct,Prod10,72,"great service"
